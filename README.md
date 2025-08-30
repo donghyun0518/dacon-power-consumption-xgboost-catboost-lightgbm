@@ -1,13 +1,12 @@
 # <h1 style="text-align: center;">⚡2025 전력사용량 예측 AI 경진대회</h1>
 <hr>
 <p style="text-align: center;">
-    <img src="https://github.com/donghyun0518/power-usage-prediction/blob/main/dacon_logo.png" alt="Project Cover" style="width: 600px; border: 1px solid #c9d1d9; border-radius: 8px;">
     <a href="https://github.com/donghyun0518/power-usage-prediction/blob/main/presentation.pdf" target="_blank">
         <img src="https://github.com/donghyun0518/power-usage-prediction/blob/main/project_overview.png" alt="Project Cover" style="width: 1000px; border: 1px solid #c9d1d9; border-radius: 8px;">
     </a>
 </p>
 
-[프로젝트 발표 자료](https://github.com/donghyun0518/power-usage-prediction/blob/main/presentation.pdf)
+[프로젝트 발표 자료](https://github.com/donghyun0518/dacon-power-consumption-xgboost-catboost-lightgbm/blob/main/%EC%A0%84%EB%A0%A5.pdf)
 
 ## 🔍 프로젝트 개요
 - **목적**: 안정적이고 효율적인 에너지 공급을 위한 전력 사용량 예측 시스템 개발
