@@ -152,15 +152,6 @@
 | Catboost 유형별 모델 | 5.78100 |
 | LightGBM 유형별 모델 | 5.81680 |
 
-## 🛠️ 기술 스택
-- **언어**: Python
-- **라이브러리**: 
-  - 머신러닝: scikit-learn, XGBoost, LightGBM, CatBoost
-  - 데이터 처리: pandas, numpy
-  - 시각화: matplotlib, seaborn
-  - 통계: scipy
-- **개발 환경**: Jupyter Notebook, Google Colab
-
 ## 📈 모델 성능 평가
 - **최종 성과**: Public Score 5.16585, Private Score 5.82404 (SMAPE 기준)
 - **검증 방식**: 시계열 12-Fold 교차검증
@@ -169,6 +160,15 @@
   - 다양한 부스팅 모델의 앙상블로 안정성 확보
   - 과소추정 문제 해결을 위한 가중치 적용
   - 시계열 특성을 고려한 피쳐 엔지니어링
+
+## 🛠️ 기술 스택
+- **언어**: Python
+- **라이브러리**: 
+  - 머신러닝: scikit-learn, XGBoost, LightGBM, CatBoost
+  - 데이터 처리: pandas, numpy
+  - 시각화: matplotlib, seaborn
+  - 통계: scipy
+- **개발 환경**: Jupyter Notebook, Google Colab
 
 ## 🔮 기대효과
 - **에너지 효율성 향상**: 정확한 전력 수요 예측을 통한 효율적인 에너지 공급
