@@ -1,8 +1,8 @@
 # <h1 style="text-align: center;">⚡2025 전력사용량 예측 AI 경진대회</h1>
 <hr>
 <p style="text-align: center;">
-    <a href="https://github.com/donghyun0518/power-usage-prediction/blob/main/presentation.pdf" target="_blank">
-        <img src="https://github.com/donghyun0518/power-usage-prediction/blob/main/project_overview.png" alt="Project Cover" style="width: 1000px; border: 1px solid #c9d1d9; border-radius: 8px;">
+    <a href="https://github.com/donghyun0518/dacon-power-consumption-xgboost-catboost-lightgbm/blob/main/%EC%A0%84%EB%A0%A5.pdf" target="_blank">
+        <img src="https://github.com/donghyun0518/dacon-power-consumption-xgboost-catboost-lightgbm/blob/main/power_consuption_main.png" alt="Project Cover" style="width: 1000px; border: 1px solid #c9d1d9; border-radius: 8px;">
     </a>
 </p>
 
